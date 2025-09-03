@@ -22,10 +22,10 @@ function myFunc() {
         greeting = "Good Night";
 
     }
-
-}
 document.getElementById("time").innerHTML = time;
 document.getElementById("greet").innerHTML = greeting;
+}
+
 let text = "";
 let i = 0;
 while(i<=10){
